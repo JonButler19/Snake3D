@@ -1,7 +1,9 @@
-class Fruit
+
+
+class Fruit 
 {
 public:
-	Fruit(int positionX, int positionZ)
+	Fruit(int positionX, int positionZ) 
 	{
 		xCoordinate = positionX;
 		zCoordinate = positionZ;
@@ -25,3 +27,4 @@ protected:
 private:
 	float xCoordinate, zCoordinate, angle;
 };
+

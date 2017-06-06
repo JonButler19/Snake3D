@@ -1,31 +1,30 @@
 ﻿  Snake.cpp
-i:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\snake.cpp(26): warning C4018: '<=': signed/unsigned mismatch
-i:\snakegame\snakegame\snake.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\snake.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\snake.cpp(106): warning C4018: '<=': signed/unsigned mismatch
-i:\snakegame\snakegame\snake.cpp(117): warning C4018: '<=': signed/unsigned mismatch
+d:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\snake.cpp(26): warning C4018: '<=': signed/unsigned mismatch
+d:\snakegame\snakegame\snake.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\snake.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\snake.cpp(106): warning C4018: '<=': signed/unsigned mismatch
+d:\snakegame\snakegame\snake.cpp(117): warning C4018: '<=': signed/unsigned mismatch
   Music.cpp
   main.cpp
-i:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-i:\snakegame\snakegame\main.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-i:\snakegame\snakegame\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-i:\snakegame\snakegame\main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-i:\snakegame\snakegame\main.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Fruit.cpp
-i:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-i:\snakegame\snakegame\fruit.cpp(27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\snakegame\snakegame\fruit.cpp(27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
   Block.cpp
-i:\snakegame\snakegame\block.cpp(54): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
+d:\snakegame\snakegame\block.cpp(54): warning C4244: 'argument': conversion from 'float' to 'GLubyte', possible loss of data
   Generating Code...
-  LINK : I:\SnakeGame\Debug\SnakeGame.exe not found or not built by the last incremental link; performing full link
-  SnakeGame.vcxproj -> I:\SnakeGame\Debug\SnakeGame.exe
+  SnakeGame.vcxproj -> D:\SnakeGame\Debug\SnakeGame.exe
