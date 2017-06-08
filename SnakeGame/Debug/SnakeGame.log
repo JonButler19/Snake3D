@@ -10,11 +10,11 @@ d:\snakegame\snakegame\snake.cpp(117): warning C4018: '<=': signed/unsigned mism
   main.cpp
 d:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 d:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\snakegame\snakegame\main.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\snakegame\snakegame\main.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\snakegame\snakegame\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\snakegame\snakegame\main.cpp(63): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-d:\snakegame\snakegame\main.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\snakegame\snakegame\main.cpp(98): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(99): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(100): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\snakegame\snakegame\main.cpp(204): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Fruit.cpp
 d:\snakegame\snakegame\fruit.h(8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
 d:\snakegame\snakegame\fruit.h(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data

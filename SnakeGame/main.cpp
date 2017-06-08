@@ -9,6 +9,7 @@
 #include <iostream>
 #include "Snake.h"
 #include "Music.h"
+#include "Test.h"
 
 //SDL
 #include <SDL2/SDL.h>
@@ -28,10 +29,10 @@ bool initSDL()
 		cout << "SDL could not initialise! SDL_Error: " << SDL_GetError() << endl;
 		return false;
 	}
-	//Initialize SDL_mixer
+	//Initialise SDL_mixer
 	if (Mix_OpenAudio(44100, MIX_DEFAULT_FORMAT, 2, 2048) < 0)
 	{
-		cout << "SDL_mixer could not initialize! SDL_mixer Error: " << Mix_GetError() << endl;
+		cout << "SDL_mixer could not initialise! SDL_mixer Error: " << Mix_GetError() << endl;
 		return false;
 	}
 	return true;
@@ -46,6 +47,43 @@ GLfloat lPos[] = { 0, 3, 0 };
 
 //create the snake
 Snake* snake = new Snake(0, 0, 1);
+
+//************************************************************
+
+//testing to see if a snake is created correctly
+void Test1() 
+{
+	//create a snake using x position, y position, and coutner
+	Snake* snakeTest = new Snake(0, 0, 1);
+}
+
+//testing loading music
+void Test2()
+{
+	//created pointer
+	Mix_Music* pTest = NULL;
+	//loads music from file
+	pTest = loadMusic("Music/MusicLoopTest.wav");
+	//plays music
+	Mix_PlayMusic(pTest, -1);
+	//stops music
+	Mix_HaltMusic();
+	//destorys music
+	Mix_FreeMusic(pBackgroundMusicAudio);
+	pBackgroundMusicAudio = NULL;
+
+}
+
+//testing to add a block to the body of the snake
+void Test3()
+{
+	//create a snake using x position, y position, and coutner
+	Snake* snakeTestTwo = new Snake(0, 0, 1);
+	//calling the addblock fiunction to add the block
+	snakeTestTwo->addBlock();
+}
+
+//*************************************************************
 
 void drawBoard(void)
 {

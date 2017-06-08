@@ -2,7 +2,6 @@
 #include "Block.h"
 
 #include "Fruit.h"
-
 class Snake
 {
 public:
@@ -45,5 +44,5 @@ protected:
 private:
 	Direction currentDir;
 	bool isUpdated;
-	int points;
+	int points, Length;
 };
